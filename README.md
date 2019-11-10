@@ -6,6 +6,4 @@ By pushing a key down [ASDFGHJKL], a sound will appear and its button on screen 
 
 ![Alt Text](demo-pic/drum-kit.png)
 
-Based on a course of https://javascript30.com/
-
-Sounds taken from https://www.salamisound.de/
+Based on a course of https://javascript30.com/ / Sounds taken from https://www.salamisound.de/

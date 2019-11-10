@@ -1,24 +1,26 @@
 * {
     box-sizing: border-box;
+    font-family: "Helvetica Neue", sans-serif;
 }
 body {
-    margin: 0;
     background-color: black;
 }
 
+.drumkit {
+    margin-top: 150px;
+}
 .keys {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-    margin-top: 40px;
 }
 .key {
     display: flex;
     flex-direction: column;
     width: 100px;
     text-align: center;
-    background: rgba(100, 0, 200, 0.4);
+    background: rgba(100, 0, 200, 0.5);
     color: yellow;
     font-size: 1.7em;
     border: solid 1px blue;
@@ -29,7 +31,7 @@ body {
 .sound {
     text-align: center;
     color: red;
-    font-size: 0.7em;
+    font-size: 0.6em;
 }
 .playing {
     transform: scale(1.1);

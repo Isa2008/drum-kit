@@ -4,16 +4,14 @@
     font-family: 'McLaren', cursive, sans-serif;
 }
 body {
+    margin: 0;
     background-color: black;
 }
 .drumkit {
-    margin-top: 120px;
-}
-.keys {
+    min-height: 100vh;
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
 }
 .key {
     display: flex;

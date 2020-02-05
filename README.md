@@ -1,10 +1,13 @@
 # Drum Kit
 
-Drum Kit made with Vanilla JavaScript, CSS, HTML. Includes working with DOM & Interface.
+TECH STACK:\
+HTML, CSS with Flexbox, Vanilla JavaScript with DOM & Interface
 
-Play it here https://isa2008.github.io/drum-kit/
+DEMO:\
+https://isa2008.github.io/drum-kit/
 
-By pushing a key down [ASDFGHJKL], a sound will appear and its button on screen lightens up. The user can rewind to starting sound of a key by hitting several times. Displayed in flexbox.
+FEATURES:\
+By pushing one of the following keyboard's keys: A, S, D, F, G, H, J, K, L, a sound will play and its button on screen lightens up. A tone can be played from the start by hitting its key fastly.
 
 ![Alt Text](demo-pic/drum-kit.png)
 
